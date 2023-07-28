@@ -2,7 +2,7 @@ class TouchAuth < Formula
   desc "The touch-auth util for MacOS"
   homepage "https://github.com/theseal/touch-auth/"
   url "https://github.com/elsagranger/touch-auth/releases/download/1.0/touch-auth.tar.gz"
-  sha256 "2153255ee8b635e88d5e8de90f9640dff76fa23f1525796db2eb7ff0ead205a0"
+  sha256 "8b35bd4463948868549df918972ae2a68afe7e696c05c48ce08f813cb4b33b7c"
 
   def install
     bin.install "#{name}"
